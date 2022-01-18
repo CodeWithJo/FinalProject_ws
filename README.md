@@ -37,4 +37,4 @@ $ ./move_around.sh
 
 $ ./git_clone_project_and_run_map_rviz_auto.sh
 
-$././move_around.sh
+$./move_around.sh
