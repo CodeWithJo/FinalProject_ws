@@ -1,5 +1,6 @@
 #MobileRobotics
 
+
 Msc Robotic Final Project at Middlesex University 2022
 
 firstly run $ roscore
@@ -22,6 +23,7 @@ $ roslaunch wheeledrobot map_rviz_amcl.launch
 
 $ rostopic pub /start_journey std_msgs/Empty -1
 
+
 #Altenatively download the bash files Open a new terminal run them from home folder
 
 If you have git cloned the project
@@ -29,6 +31,7 @@ If you have git cloned the project
 $ ./run_map_rviz_auto.sh
 
 $ ./move_around.sh
+
 
 #If you have not git cloned the project you can run
 
